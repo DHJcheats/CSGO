@@ -1,1 +1,19 @@
-
+[transactions_ids]
+transaction_01 = {get; set;}
+transaction_02 = {get; set;}
+transaction_03 = {get; set;}
+transaction_04 = {get; set;}
+transaction_05 = {get; set;}
+transaction_06 = {get; set;}
+transaction_07 = {get; set;}
+transaction_08 = {get; set;}
+transaction_09 = {get; set;}
+transaction_10 = {get; set;}
+transaction_11 = {get; set;}
+transaction_12 = {get; set;}
+transaction_13 = {get; set;}
+transaction_14 = {get; set;}
+transaction_15 = {get; set;}
+transaction_16 = {get; set;}
+transaction_17 = {get; set;}
+transaction_18 = {get; set;}
