@@ -1,6 +1,6 @@
 [transactions_ids]
 transaction_01 = carlos eduardo alves dos santos
-transaction_02 = {get; set;}
+transaction_02 = arthur de oliveira
 transaction_03 = {get; set;}
 transaction_04 = {get; set;}
 transaction_05 = {get; set;}
